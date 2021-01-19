@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name IoT-Sensor-Node-rescue)(type Legacy)(uri "${KIPRJMOD}/IoT Sensor Node-rescue.lib")(options "")(descr ""))
+)
