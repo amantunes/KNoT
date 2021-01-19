@@ -6,4 +6,4 @@ In order to achieve this a Cypress PSoC 5LP Microcontroller was used due to its 
 
 Wired communications are handled by various protocols, such as I2C, SPI and UART, while wireless communications are handled by a u-blox SARA N2 NB-IoT module.
 
-![alt text](images/KNoT_prototype.jpg)
+![KNoT Prototype Image](images/KNoT_prototype.jpg)
