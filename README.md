@@ -1,1 +1,1 @@
-# iot_sensor_node
+# KNoT
