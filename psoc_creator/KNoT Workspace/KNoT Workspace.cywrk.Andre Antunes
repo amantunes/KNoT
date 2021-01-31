@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="KNoT Workspace\KNoT FW\TopDesign">
+<ExpandedNodeIds>
+<v>KNoT Workspace</v>
+<v>KNoT Workspace\KNoT FW</v>
+<v>KNoT Workspace\KNoT FW\Source Files</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>KNoT Workspace</v>
+<v>KNoT Workspace\KNoT FW</v>
+<v>KNoT Workspace\KNoT FW\TopDesign</v>
+<v>KNoT Workspace\KNoT FW\KNoT FW.cydwr</v>
+<v>KNoT Workspace\KNoT FW\Header Files</v>
+<v>KNoT Workspace\KNoT FW\Source Files</v>
+<v>KNoT Workspace\KNoT FW\Source Files\ad5940.c</v>
+<v>KNoT Workspace\KNoT FW\Source Files\main.c</v>
+<v>KNoT Workspace\KNoT FW\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>KNoT Workspace</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>KNoT Workspace</v>
+<v>KNoT Workspace\KNoT FW</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>KNoT Workspace</v>
+<v>KNoT Workspace\KNoT FW</v>
+<v>KNoT Workspace\KNoT FW\CortexM3</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ad5940.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\AD5941.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\AD5941_Interrupt.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\AD5941_Reset.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_AMux.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_Ext_CP_Clk.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_INT.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_IRQ.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_PM.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_theACLK.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CR.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CR_PM.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_RX_dma.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_TX_dma.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_1.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MISO.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MOSI.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX1.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX2.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX3.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX4.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX5.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX6.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Reset_CR.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Reset_CR_PM.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\SCLK.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Sensor1_m.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Sensor1_p.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_INT.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_PM.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cls.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_descr.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dp.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_drv.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_episr.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_hid.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_midi.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_msc.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_pm.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_std.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_vnd.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\KNoT FW.elf</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\KNoT FW.hex</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\KNoT FW.map</v>
+<v>KNoT Workspace\KNoT FW\KNoT FW.gpdsc</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>KNoT Workspace</v>
+<v>KNoT Workspace\KNoT FW</v>
+<v>KNoT Workspace\KNoT FW\CortexM3</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ad5940.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\AD5941.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\AD5941_Interrupt.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\AD5941_Reset.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_AMux.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_Ext_CP_Clk.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_INT.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_IRQ.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_PM.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_DelSig_theACLK.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CR.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CR_PM.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_RX_dma.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\DMA_TX_dma.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_1.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MISO.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MOSI.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX1.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX2.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX3.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX4.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX5.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\MUX6.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Reset_CR.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Reset_CR_PM.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\SCLK.lst</v>
+<v>KNoT Workspace\KNoT FW\CortexM3\ARM_GCC_541\Debug\Listing Files\Sensor1_m.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>KNoT Workspace</v>
+<v>KNoT Workspace\KNoT FW\PSoC 5LP Architecture TRM</v>
+<v>KNoT Workspace\KNoT FW\CY8C58LP Family Datasheet</v>
+<v>KNoT Workspace\KNoT FW\System Reference Guides</v>
+<v>KNoT Workspace\KNoT FW\System Reference Guides\cy_boot_v5_80</v>
+<v>KNoT Workspace\KNoT FW\ADC_DelSig_v3_30.pdf</v>
+<v>KNoT Workspace\KNoT FW\cy_clock_v2_20.pdf</v>
+<v>KNoT Workspace\KNoT FW\cy_dma_v1_70</v>
+<v>KNoT Workspace\KNoT FW\cy_dma_v1_70\cy_dma_v1_70.pdf</v>
+<v>KNoT Workspace\KNoT FW\cy_isr_v1_70.pdf</v>
+<v>KNoT Workspace\KNoT FW\cy_pins_v2_20</v>
+<v>KNoT Workspace\KNoT FW\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>KNoT Workspace\KNoT FW\cy_vref_v1_70.pdf</v>
+<v>KNoT Workspace\KNoT FW\CyControlReg_v1_80</v>
+<v>KNoT Workspace\KNoT FW\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>KNoT Workspace\KNoT FW\demux_v1_10.pdf</v>
+<v>KNoT Workspace\KNoT FW\not_v1_0</v>
+<v>KNoT Workspace\KNoT FW\not_v1_0\not_v1_0.pdf</v>
+<v>KNoT Workspace\KNoT FW\SPI_Master_v2_50.pdf</v>
+<v>KNoT Workspace\KNoT FW\USBFS_v3_20.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>KNoT Workspace</v>
+<v>KNoT Workspace\KNoT FW</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="2909" DocumentName=".\Design01.cydsn\ad5940.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+<CyGuid_67999771-01c6-4f62-90b3-2054bb36a318 type_name="CyDesigner.Framework.CyBookmark" version="1">
+<CyGuid_a1027fc4-3497-43a6-85d7-b91ffa0029b7 type_name="CyDesigner.Framework.CySerializableMarginIndicator" version="1" LineNumber="2904" DocumentName=".\Design01.cydsn\ad5940.c" />
+</CyGuid_67999771-01c6-4f62-90b3-2054bb36a318>
+</indicators>
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="6c335137-fa19-46ce-bc2d-2fbeb6d5f2a2">
+<CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2 type_name="CyDesigner.Common.ProjMgmt.GUI.CyDependenciesCustomData" version="1">
+<dictName v=".\Design01.cydsn\Design01.cyprj">
+<listName />
+</dictName>
+<dictName v=".\KNoT FW.cydsn\KNoT FW.cyprj">
+<listName>
+<v>.\USBFS_UART01.cydsn\USBFS_UART01.cyprj</v>
+</listName>
+</dictName>
+</CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\KNoT FW.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\KNoT FW.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1042, 681" SelectedTabbedMdiWindow="42fd3e6f-df32-4fd2-870e-3b9b0cf15026"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="367faeab-a9b8-43c6-bdf7-104920431d6f" /><DocumentWindow Key="C:\Users\Andre Antunes\Google Drive\5 Ano\Tese\Serial CSV\presentation\KNoT Workspace\KNoT FW.cydsn\TopDesign\TopDesign.cysch" Guid="ab052697-10f6-490a-b973-37153715fe29" /><DocumentWindow Key="C:\Users\Andre Antunes\Google Drive\5 Ano\Tese\Serial CSV\presentation\KNoT Workspace\KNoT FW.cydsn\main.c" Guid="42fd3e6f-df32-4fd2-870e-3b9b0cf15026" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
